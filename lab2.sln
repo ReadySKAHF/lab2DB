@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "lab2\Domain.csproj", "{FC22CD41-AA2F-403D-90D8-1AE7BE233571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRepairWorkshopConsole", "AutoRepairWorkshopConsole\AutoRepairWorkshopConsole.csproj", "{78BEC5F2-2A42-4F38-95EE-84EF785A00AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC22CD41-AA2F-403D-90D8-1AE7BE233571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC22CD41-AA2F-403D-90D8-1AE7BE233571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC22CD41-AA2F-403D-90D8-1AE7BE233571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC22CD41-AA2F-403D-90D8-1AE7BE233571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BEC5F2-2A42-4F38-95EE-84EF785A00AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BEC5F2-2A42-4F38-95EE-84EF785A00AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BEC5F2-2A42-4F38-95EE-84EF785A00AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BEC5F2-2A42-4F38-95EE-84EF785A00AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F11526BD-17CC-48C6-B7EA-BE1A5AB9C70C}
+	EndGlobalSection
+EndGlobal
